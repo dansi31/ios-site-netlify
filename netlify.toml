@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/AntiRevokeDNS.mobileconfig"
+  [headers.values]
+    Content-Type = "application/x-apple-aspen-config"
+    Content-Disposition = "inline"
